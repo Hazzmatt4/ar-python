@@ -36,6 +36,8 @@ output/
 ItemRipperOutput/
 ItemCreatorOutput/
 
+.DS_STORE
+
 
 # Installer logs
 pip-log.txt
