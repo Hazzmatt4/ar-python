@@ -32,6 +32,11 @@ MANIFEST
 *.manifest
 *.spec
 
+output/
+ItemRipperOutput/
+ItemCreatorOutput/
+
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
