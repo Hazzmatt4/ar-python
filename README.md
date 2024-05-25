@@ -3,6 +3,10 @@ Archerage python item icon creation tool
 
 Python Version: 3.10.11
 
+requirements:
+- requests
+- bs4
+
 Install Git
 Run command: 
 ```git config --global user.name "[Github username]"```
